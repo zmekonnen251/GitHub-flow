@@ -14,9 +14,9 @@
 
 ## Author
 
-- GitHub: [Github](https://github.com/zmekonnen251)
+- GitHub: [GitHub](https://github.com/zmekonnen251)
 - Twitter: [Twitter](https://twitter.com/mek_zela)
-- LinkedIn: [Zelalem G. Mekonnen](www.linkedin.com/in/zelalem-g-mekonnen)
+- LinkedIn: [Zelalem G. Mekonnen](https://www.linkedin.com/in/zelalem-getachew/)
 
 
 ## 🤝 Contributing
