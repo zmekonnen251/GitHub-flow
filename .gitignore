@@ -1,0 +1,5 @@
+## ignores test.md file
+test.md
+
+## ignores npm
+node_modules/
