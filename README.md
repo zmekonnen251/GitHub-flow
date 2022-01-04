@@ -4,7 +4,6 @@
 
 > setting up a "Hello world" repository.
 
-Additional description about the project and its features.
 
 ## Built With
 
